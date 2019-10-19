@@ -6,7 +6,7 @@ Interactive tool for creating directed graphs, created using d3.js.
 Demo: http://bl.ocks.org/cjrd/6863459
 
 <p align="center">
-<img src="http://obphio.us/media/images/digraph-creator.png" alt="Metacademy Logo" height="350px"/>
+<img src="https://raw.githubusercontent.com/fotisz/directed-graph-creator/master/thumbnail.png" alt="Directed Graph Creator" height="350px"/>
 </p>
 
 Operation:
